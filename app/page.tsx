@@ -28,7 +28,7 @@ export default function Home() {
               height={20}
             />
 
-            Deploy now - test - 3
+            Deploy now - Production
 
           </a>
           <a
