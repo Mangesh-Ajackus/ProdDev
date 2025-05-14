@@ -29,7 +29,7 @@ export default function Home() {
             />
 
 
-            Deploy Dev 
+            Deploy New Branch 
 
 
           </a>
